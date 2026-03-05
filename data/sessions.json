@@ -1,0 +1,14 @@
+[
+  {
+    "started_at": "2026-03-05T06:37:16Z",
+    "minutes": 30,
+    "distraction_count": 1,
+    "notes": "Test run"
+  },
+  {
+    "started_at": "2026-03-05T06:38:09Z",
+    "minutes": 25,
+    "distraction_count": 2,
+    "notes": "review run"
+  }
+]
